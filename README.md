@@ -5,3 +5,8 @@ Changelog: 28.06.2020.
 ----------------------
 
 Adapted for Plasma Theme 5.19
+
+Changelog: 03.08.2020.
+----------------------
+
+Correction of gtk.css file
