@@ -10,3 +10,9 @@ Changelog: 03.08.2020.
 ----------------------
 
 Correction of gtk.css file
+
+
+Changelog: 23.08.2020.
+----------------------
+
+gtkrc file correction
