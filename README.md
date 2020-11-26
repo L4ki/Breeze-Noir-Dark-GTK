@@ -27,4 +27,9 @@ Changelog: 24.10.2020.
 
 Correction of gtkrc file
 
+Changelog: 27.11.2020.
+---------------------
+
+Correction of gtkrc file
+
 
