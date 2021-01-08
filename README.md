@@ -32,4 +32,8 @@ Changelog: 27.11.2020.
 
 Correction of gtkrc file
 
+Changelog: 08.01.2021.
+----------------------
+
+Fixed icon: button-active.png
 
