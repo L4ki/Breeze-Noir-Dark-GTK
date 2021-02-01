@@ -37,3 +37,8 @@ Changelog: 08.01.2021.
 
 Fixed icon: button-active.png
 
+Changelog:01.02.2021.
+---------------------
+
+Fixed icon: toolbutton-active.png
+
