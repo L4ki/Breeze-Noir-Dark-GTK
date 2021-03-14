@@ -42,3 +42,7 @@ Changelog:01.02.2021.
 
 Fixed icon: toolbutton-active.png
 
+Changelog: 14.03.2021.
+----------------------
+
+Color correction in gtkrc file
