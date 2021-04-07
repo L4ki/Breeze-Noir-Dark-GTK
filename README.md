@@ -46,3 +46,8 @@ Changelog: 14.03.2021.
 ----------------------
 
 Color correction in gtkrc file
+
+Changelog: 07.04.2021.
+----------------------
+
+Correction of gtk.css file
