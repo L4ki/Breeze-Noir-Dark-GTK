@@ -51,3 +51,8 @@ Changelog: 07.04.2021.
 ----------------------
 
 Correction of gtk.css file
+
+Changelog: 22.04.2021.
+----------------------
+
+Correction gtk-2.0 (widgets)
