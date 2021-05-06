@@ -56,3 +56,8 @@ Changelog: 22.04.2021.
 ----------------------
 
 Correction gtk-2.0 (widgets)
+
+Changelog: 06.05.2021.
+----------------------
+
+Fixed icons: togglebutton-active.png, togglebutton-hover.png
