@@ -61,3 +61,8 @@ Changelog: 06.05.2021.
 ----------------------
 
 Fixed icons: togglebutton-active.png, togglebutton-hover.png
+
+Changelog: 22.05.2021.
+----------------------
+
+Correction of gtk.css file (gtk-3.0) 
