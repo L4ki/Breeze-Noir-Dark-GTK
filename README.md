@@ -66,3 +66,8 @@ Changelog: 22.05.2021.
 ----------------------
 
 Correction of gtk.css file (gtk-3.0) 
+
+Changelog: 06.07.2021.
+-----------------------
+
+Fixed icon: menubar-button.png
