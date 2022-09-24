@@ -71,3 +71,8 @@ Changelog: 06.07.2021.
 -----------------------
 
 Fixed icon: menubar-button.png
+
+hangelog: 24.09.2022.
+-----------------------
+
+Redesigned Theme
