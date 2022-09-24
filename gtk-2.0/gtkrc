@@ -1,30 +1,31 @@
-# Theme:       Breeze-gtk
-# Description: Breeze theme for GTK+2.0
+# Text/base colors
+gtk-color-scheme = "text_color:#c5dce3\nbase_color:#001621"
+# Foreground/background colors
+gtk-color-scheme = "fg_color:#c5dce3\nbg_color:#001d2b"
+# Selection colors
+gtk-color-scheme = "selected_fg_color:#c5dce3\nselected_bg_color:#0094cf"
+# Tooltip colors
+gtk-color-scheme = "tooltip_fg_color:#c5dce3\ntooltip_bg_color:#001c2a"
+# Window colors
+gtk-color-scheme = "wm_color:#001621\nunfocused_wm_color:#001621"
+# Panel colors
+gtk-color-scheme = "panel_bg_color:#001621\npanel_fg_color:#c5dce3"
+# Dark Theme - Text/base colors
+gtk-color-scheme = "dark_text_color:#c5dce3\ndark_base_color:#001d2b"
+# Dark Theme - Foreground/background colors
+gtk-color-scheme = "dark_fg_color:#c5dce3\ndark_bg_color:#001d2b"
+gtk-color-scheme = "sidebar_bg:#001d2b"
+gtk-color-scheme = "sidebar_fg:#c5dce3"
 
-gtk-color-scheme = "text_color:#eff0f1"
-gtk-color-scheme = "base_color:#001621"
-gtk-color-scheme = "insensitive_base_color:#2e3e46"
-gtk-color-scheme = "fg_color:#eff0f1"
-gtk-color-scheme = "bg_color:#001621"
-gtk-color-scheme = "selected_fg_color:#eff0f1"
-gtk-color-scheme = "selected_bg_color:#005377"
-gtk-color-scheme = "button_fg_color:#eff0f1"
-gtk-color-scheme = "tooltip_fg_color:#eff0f1"
-gtk-color-scheme = "tooltip_bg_color:#001b28"
-gtk-color-scheme = "insensitive_fg_color:#001621"
-gtk-color-scheme = "insensitive_text_color:#364851"
-gtk-color-scheme = "button_insensitive_fg_color:#001621"
-gtk-color-scheme = "button_active:#005377"
-gtk-color-scheme = "border_color:#2e3a43"
+gtk-auto-mnemonics = 1
+gtk-primary-button-warps-slider = 1
 
-include "widgets/default"
-include "widgets/buttons"
-include "widgets/menu"
-include "widgets/entry"
-include "widgets/notebook"
-include "widgets/range"
-include "widgets/scrollbar"
-include "widgets/toolbar"
-include "widgets/progressbar"
-include "widgets/misc"
-include "widgets/styles"
+include "main.rc"
+
+# App stylings
+include "apps/chrome.rc"
+include "apps/gimp.rc"
+include "apps/libreoffice.rc"
+include "apps/terminal.rc"
+include "apps/thunar.rc"
+include "apps/xfce.rc"
