@@ -76,3 +76,8 @@ Changelog: 24.09.2022.
 -----------------------
 
 Redesigned Theme
+
+Changelog: 24.04.2023.
+-----------------------
+
+Update:  tab-horz-gap.png, tab-vert-gap.png
