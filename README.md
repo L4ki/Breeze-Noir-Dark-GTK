@@ -81,3 +81,8 @@ Changelog: 24.04.2023.
 -----------------------
 
 Update:  tab-horz-gap.png, tab-vert-gap.png
+
+Changelog: 01.05.2023.
+-----------------------
+
+Update: gtk-2.0
