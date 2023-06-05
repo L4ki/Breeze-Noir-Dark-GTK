@@ -101,3 +101,8 @@ Changelog: 29.05.2023.
 -----------------------
 
 Update: tab-up-active.png
+
+Changelog: 05.06.2023.
+-----------------------
+
+Update: frame-inline.png
