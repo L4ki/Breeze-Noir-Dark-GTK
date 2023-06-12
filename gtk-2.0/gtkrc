@@ -1,5 +1,5 @@
 # Text/base colors
-gtk-color-scheme = "text_color:#c5dce3\nbase_color:#001621"
+gtk-color-scheme = "text_color:#c5dce3\nbase_color:#002335"
 # Foreground/background colors
 gtk-color-scheme = "fg_color:#c5dce3\nbg_color:#001d2b"
 # Selection colors
