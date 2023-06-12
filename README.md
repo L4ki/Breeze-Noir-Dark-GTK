@@ -106,3 +106,8 @@ Changelog: 05.06.2023.
 -----------------------
 
 Update: frame-inline.png
+
+Changelog: 12.06.2023.
+-----------------------
+
+Update: gtkrc
