@@ -111,3 +111,8 @@ Changelog: 12.06.2023.
 -----------------------
 
 Update: gtkrc
+
+Changelog: 19.06.2023.
+-----------------------
+
+Update: tab-right-active.png, tab-left-active.png
