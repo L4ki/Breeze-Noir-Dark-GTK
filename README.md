@@ -126,3 +126,8 @@ Changelog: 03.07.2023.
 -----------------------
 
 Update: tab-down-active.png
+
+Changelog: 10.07.2023.
+-----------------------
+
+Update: gtk-3.0
