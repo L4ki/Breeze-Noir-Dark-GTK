@@ -131,3 +131,9 @@ Changelog: 10.07.2023.
 -----------------------
 
 Update: gtk-3.0
+
+Changelog: 17.07.2023.
+-----------------------
+
+Update: bullet-symbolic.svg
+
