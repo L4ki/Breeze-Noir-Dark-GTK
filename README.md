@@ -137,3 +137,9 @@ Changelog: 17.07.2023.
 
 Update: bullet-symbolic.svg
 
+
+Changelog: 24.07.2023.
+-----------------------
+
+Update: checkmark-symbolic.svg
+
