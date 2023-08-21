@@ -158,3 +158,7 @@ Changelog: 14.08.2023.
 
 Update: checkbox-checked-hover.png
 
+Changelog: 21.08.2023.
+-----------------------
+
+Update: hacks-dark
