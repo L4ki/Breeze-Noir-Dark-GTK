@@ -172,3 +172,9 @@ Changelog: 04.09.2023.
 -----------------------
 
 Update: gtkrc
+
+Changelog: 11.09.2023.
+-----------------------
+
+Update: border.png
+
