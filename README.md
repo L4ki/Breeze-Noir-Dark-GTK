@@ -178,3 +178,8 @@ Changelog: 11.09.2023.
 
 Update: border.png
 
+Changelog: 18.09.2023.
+-----------------------
+
+Update: tab-up-active.png
+
