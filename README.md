@@ -183,3 +183,8 @@ Changelog: 18.09.2023.
 
 Update: tab-up-active.png
 
+Changelog: 25.09.2023.
+-----------------------
+
+Update: frame-notebook.png
+
