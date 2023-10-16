@@ -197,3 +197,8 @@ Changelog: 09.10.2023.
 -----------------------
 
 Update: gtkrc
+
+Changelog: 16.10.2023.
+-----------------------
+
+Update: focus.png
