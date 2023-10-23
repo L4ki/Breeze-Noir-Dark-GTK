@@ -202,3 +202,8 @@ Changelog: 16.10.2023.
 -----------------------
 
 Update: focus.png
+
+Changelog: 23.10.2023.
+-----------------------
+
+Update: frame.png
