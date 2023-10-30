@@ -207,3 +207,9 @@ Changelog: 23.10.2023.
 -----------------------
 
 Update: frame.png
+
+
+Changelog: 30.10.2023.
+-----------------------
+
+Update: treeview-separator-ltr.png
