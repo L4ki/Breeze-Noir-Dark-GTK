@@ -213,3 +213,8 @@ Changelog: 30.10.2023.
 -----------------------
 
 Update: treeview-separator-ltr.png
+
+Changelog: 06.11.2023.
+-----------------------
+
+Update: treeview-separator-rtl.png
