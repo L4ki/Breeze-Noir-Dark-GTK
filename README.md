@@ -218,3 +218,8 @@ Changelog: 06.11.2023.
 -----------------------
 
 Update: treeview-separator-rtl.png
+
+Changelog: 13.11.2023.
+-----------------------
+
+Update: progressbar-vert-trough.png
