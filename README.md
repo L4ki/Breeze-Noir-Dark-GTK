@@ -223,3 +223,9 @@ Changelog: 13.11.2023.
 -----------------------
 
 Update: progressbar-vert-trough.png
+
+
+Changelog: 20.11.2023.
+-----------------------
+
+Update: progressbar-horz-trough.png
