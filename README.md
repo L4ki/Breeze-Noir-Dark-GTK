@@ -1,5 +1,5 @@
 # Breeze-Noir-Dark-GTK
-GTK-3 Theme For Plasma
+GTK-4 Theme For Plasma
 
 Changelog: 25.01.2024.
 -----------------------
