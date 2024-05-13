@@ -1,7 +1,7 @@
 # Breeze-Noir-Dark-GTK
 GTK-4 Theme For Plasma
 
-Changelog: 06.05.2024.
+Changelog: 13.05.2024.
 -----------------------
 
-Update: hacks-dark.rc
+Update: gtk-4.0
