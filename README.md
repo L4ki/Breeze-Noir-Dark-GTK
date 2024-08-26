@@ -30,7 +30,7 @@ Screenshot:
 
 ![screenshot-20230424-1229251](https://github.com/user-attachments/assets/16474bd3-c63d-4565-a1a7-cfc47a86976b)
 
-Changelog: 19.08.2024.
+Changelog: 26.08.2024.
 -----------------------
 
-Update: styles
+Update: gtk-4.0
