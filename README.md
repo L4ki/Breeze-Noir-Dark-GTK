@@ -33,4 +33,4 @@ Screenshot:
 Changelog: 23.09.2024.
 -----------------------
 
-Update: gtk-3.0
+Update: main.rc
