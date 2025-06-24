@@ -30,7 +30,7 @@ Screenshot:
 
 ![screenshot-20230424-1229251](https://github.com/user-attachments/assets/16474bd3-c63d-4565-a1a7-cfc47a86976b)
 
-Changelog: 17.06.2025.
+Changelog: 24.06.2025.
 -----------------------
 
-Update: hacks-dark.rc
+Update: gtk-3.0
