@@ -30,7 +30,7 @@ Screenshot:
 
 ![screenshot-20230424-1229251](https://github.com/user-attachments/assets/16474bd3-c63d-4565-a1a7-cfc47a86976b)
 
-Changelog: 08.07.2025.
+Changelog: 15.07.2025.
 -----------------------
 
-Update: hacks.rc
+Update: gtk-4.0
