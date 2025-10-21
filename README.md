@@ -30,7 +30,7 @@ Screenshot:
 
 ![screenshot-20230424-1229251](https://github.com/user-attachments/assets/16474bd3-c63d-4565-a1a7-cfc47a86976b)
 
-Changelog: 14.10.2025.
+Changelog: 21.10.2025.
 -----------------------
 
-Update: gtk-3.0
+Update: main.rc
